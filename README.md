@@ -4,6 +4,10 @@ Proyek gabut-gabutan buat bantu streamer ngitung donasi pas voting game. Ada yan
 
 **Demo:** https://voting-streamer.vercel.app
 
+![Demo Vote Donasi](docs/demo.gif)
+
+[▶ Tonton dengan suara (mp4)](https://voting-streamer.vercel.app/demo.mp4)
+
 ## Bisa apa aja
 
 - **Ketik nominal seenaknya**, nggak perlu ribet nulis nol:
