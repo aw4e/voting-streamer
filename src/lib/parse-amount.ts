@@ -1,4 +1,4 @@
-const UNITS: Record<string, number> = { ribu: 1e3, rb: 1e3, k: 1e3, juta: 1e6, jt: 1e6 }
+const UNITS: Record<string, number> = { ribu: 1e3, rb: 1e3, k: 1e3, juta: 1e6, jt: 1e6, miliar: 1e9, milyar: 1e9,triliun: 1e12 }
 
 /** Rupiah per 1 unit of each ISO 4217 code, e.g. { USD: 18060.4, MYR: 4420.1 }. */
 export type Rates = Record<string, number>
@@ -41,7 +41,7 @@ const ALIASES = Object.entries({
 // Keeps sums far below Number.MAX_SAFE_INTEGER.
 const MAX_AMOUNT = 1e12
 
-const UNIT_PART = /(\d+(?:[.,]\d+)?)(ribu|rb|k|juta|jt)/y
+const UNIT_PART = /(\d+(?:[.,]\d+)?)(ribu|rb|k|juta|jt|miliar|milyar|triliun)/y
 
 /** Splits "5dolar", "dolar5", "rm10", "¥1.500" into the number text and its ISO code (null = rupiah). */
 function splitCurrency(s: string): [string, string | null] {
