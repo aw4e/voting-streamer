@@ -40,4 +40,9 @@ React 19, TypeScript, Vite, Tailwind CSS v4, [shadcn/ui](https://ui.shadcn.com).
 - Data **per browser**, nggak ada server. Buka di dua perangkat berarti dua data terpisah (antar tab di browser yang sama sinkron).
 - Kurs dari [currency-api](https://github.com/fawazahmed0/exchange-api), cadangan [open.er-api.com](https://open.er-api.com). Sumber gratis, update harian, jadi bukan kurs per detik. Jangan dipakai buat transaksi beneran.
 
+## Credit & Shout out
+
+- 💡 **Ide:** Party Neraka, makasih wkwkw. Dukung di [Tako](https://tako.id/PartyNeraka/gift).
+- 📣 **Shout out:** Nugi Darmawan. Nonton di [YouTube](https://www.youtube.com/@NugrahaDarmawan), dukung di [Tako](https://tako.id/NugiDarmawan/gift).
+
 Dibuat iseng. Kalau ada bug, namanya juga gabut.
