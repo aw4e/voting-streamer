@@ -42,7 +42,7 @@ React 19, TypeScript, Vite, Tailwind CSS v4, [shadcn/ui](https://ui.shadcn.com).
 
 ## Credit & Shout out
 
-- 💡 **Ide:** Party Neraka, makasih wkwkw. Dukung di [Tako](https://tako.id/PartyNeraka/gift).
+- 💡 **Ide:** Party Neraka. Dukung di [Tako](https://tako.id/PartyNeraka/gift).
 - 📣 **Shout out:** Nugi Darmawan. Nonton di [YouTube](https://www.youtube.com/@NugrahaDarmawan), dukung di [Tako](https://tako.id/NugiDarmawan/gift).
 
 Dibuat iseng. Kalau ada bug, namanya juga gabut.
